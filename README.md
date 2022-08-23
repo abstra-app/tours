@@ -1,4 +1,4 @@
-# Abstra Tour
+# Abstra Tours
 
 Simple js library to create an user onboarding 
 
